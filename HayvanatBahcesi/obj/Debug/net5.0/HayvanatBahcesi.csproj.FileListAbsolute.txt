@@ -1,0 +1,16 @@
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\HayvanatBahcesi.exe
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\HayvanatBahcesi.deps.json
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\HayvanatBahcesi.runtimeconfig.json
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\HayvanatBahcesi.runtimeconfig.dev.json
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\HayvanatBahcesi.dll
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\ref\HayvanatBahcesi.dll
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\net5.0\HayvanatBahcesi.pdb
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.csprojAssemblyReference.cache
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.AssemblyInfoInputs.cache
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.AssemblyInfo.cs
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.csproj.CoreCompileInputs.cache
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.dll
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\ref\HayvanatBahcesi.dll
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.pdb
+C:\Users\RD\Desktop\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\net5.0\HayvanatBahcesi.genruntimeconfig.cache
